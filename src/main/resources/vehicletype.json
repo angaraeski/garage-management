@@ -1,0 +1,17 @@
+[
+  {
+    "_class": "com.kafein.garage.entity.VehicleType",
+    "typeName": "Car",
+    "requiredSlots": "1"
+  },
+  {
+    "_class": "com.kafein.garage.entity.VehicleType",
+    "typeName": "Jeep",
+    "requiredSlots": "2"
+  },
+  {
+    "_class": "com.kafein.garage.entity.VehicleType",
+    "typeName": "Truck",
+    "requiredSlots": "4"
+  }
+]

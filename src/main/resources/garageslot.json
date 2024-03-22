@@ -1,0 +1,62 @@
+[
+  {
+    "_class": "com.kafein.garage.entity.GarageSlot",
+    "slotNumber": "1",
+    "isOccupied": "false",
+    "vehicle": null
+  },
+  {
+    "_class": "com.kafein.garage.entity.GarageSlot",
+    "slotNumber": "2",
+    "isOccupied": "false",
+    "vehicle": null
+  },
+  {
+    "_class": "com.kafein.garage.entity.GarageSlot",
+    "slotNumber": "3",
+    "isOccupied": "false",
+    "vehicle": null
+  },
+  {
+    "_class": "com.kafein.garage.entity.GarageSlot",
+    "slotNumber": "4",
+    "isOccupied": "false",
+    "vehicle": null
+  },
+  {
+    "_class": "com.kafein.garage.entity.GarageSlot",
+    "slotNumber": "5",
+    "isOccupied": "false",
+    "vehicle": null
+  },
+  {
+    "_class": "com.kafein.garage.entity.GarageSlot",
+    "slotNumber": "6",
+    "isOccupied": "false",
+    "vehicle": null
+  },
+  {
+    "_class": "com.kafein.garage.entity.GarageSlot",
+    "slotNumber": "7",
+    "isOccupied": "false",
+    "vehicle": null
+  },
+  {
+    "_class": "com.kafein.garage.entity.GarageSlot",
+    "slotNumber": "8",
+    "isOccupied": "false",
+    "vehicle": null
+  },
+  {
+    "_class": "com.kafein.garage.entity.GarageSlot",
+    "slotNumber": "9",
+    "isOccupied": "false",
+    "vehicle": null
+  },
+  {
+    "_class": "com.kafein.garage.entity.GarageSlot",
+    "slotNumber": "10",
+    "isOccupied": "false",
+    "vehicle": null
+  }
+]
